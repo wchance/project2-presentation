@@ -11,7 +11,6 @@ Part of the project consists in testing different types of indicators by creatin
 
 Our plan is to complete an MVP for this project consisting of creating a software solution that: Creates different sets of indicators to test a group of predictive models (dataset creation) Models each of the datasets using processing windows and frequent re-training (sliding window durations and re-training periods to be defined) - (model creation) Summarizes the findings Presents the outcome to the end-user (GUI)
 
-Link to Presentation
 
 ## Group 4 - Team Members
 - William Chance
