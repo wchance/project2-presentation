@@ -1,4 +1,4 @@
-Machine Learning in Financial Forecasting
+# Machine Learning in Financial Forecasting
 The objective of this project is to predict the price direction of Bitcoin in the upcoming time frame by using machine learning classification. We will compare different models and experiment with variations in retraining size, retraining frequency, and number of features. The models output the predicted trend as a percentage probability which will be interpreted as up, down, or non conclusive.
 
 The idea is to provide an actionable information piece that is an input to a decision process on when, how much and what type of trade (short vs long).
@@ -13,8 +13,8 @@ Our plan is to complete an MVP for this project consisting of creating a softwar
 
 Link to Presentation
 
-Group 4 - Team Members
-William Chance
-Pablo (Martin) Rasumoff
-Jorge Sira
-Juan Carlos Castaneda
+## Group 4 - Team Members
+- William Chance
+- Pablo (Martin) Rasumoff
+- Jorge Sira
+- Juan Carlos Castaneda
